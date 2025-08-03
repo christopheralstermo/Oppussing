@@ -1,0 +1,15 @@
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\bin\Debug\net9.0\RebeccaOppgave.exe
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\bin\Debug\net9.0\RebeccaOppgave.deps.json
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\bin\Debug\net9.0\RebeccaOppgave.runtimeconfig.json
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\bin\Debug\net9.0\RebeccaOppgave.dll
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\bin\Debug\net9.0\RebeccaOppgave.pdb
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.AssemblyInfoInputs.cache
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.AssemblyInfo.cs
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.csproj.CoreCompileInputs.cache
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.sourcelink.json
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.dll
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\refint\RebeccaOppgave.dll
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.pdb
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\RebeccaOppgave.genruntimeconfig.cache
+C:\Users\chral\Desktop\JavaScript\getAcademy\c#\getAcademy\RebeccaOppgave\RebeccaOppgave\obj\Debug\net9.0\ref\RebeccaOppgave.dll
